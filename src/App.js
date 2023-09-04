@@ -86,7 +86,9 @@ const App = () => {
           Wellcome Into Riemann System (PVT.) LTD
           <h2>{timer}</h2>
         </p>
+
       </header>
+			<button onClick={onClickReset}>Reset</button>
 		</div>
 	)
 }

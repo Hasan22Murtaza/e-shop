@@ -78,7 +78,7 @@ function App() {
             <img
               src="assets/images/working-girl.png"
               className="img-fluid"
-              alt="working girl"
+              alt="workinggirl"
             />
           </div>
         </div>
@@ -133,7 +133,7 @@ function App() {
               <img
                 src="assets/images/project/project-image01.jpg"
                 className="img-fluid"
-                alt="project image"
+                alt="projectimage"
               />
               <div className="project-info">
                 <small>Marketing</small>
@@ -149,7 +149,7 @@ function App() {
               <img
                 src="assets/images/project/project-image02.jpg"
                 className="img-fluid"
-                alt="project image"
+                alt="projectimage"
               />
               <div className="project-info">
                 <small>Website</small>
@@ -165,7 +165,7 @@ function App() {
               <img
                 src="assets/images/project/project-image03.jpg"
                 className="img-fluid"
-                alt="project image"
+                alt="projectimage"
               />
               <div className="project-info">
                 <small>Branding</small>
@@ -181,7 +181,7 @@ function App() {
               <img
                 src="assets/images/project/project-image04.jpg"
                 className="img-fluid"
-                alt="project image"
+                alt="projectimage"
               />
               <div className="project-info">
                 <small>Social Media</small>
@@ -197,7 +197,7 @@ function App() {
               <img
                 src="assets/images/project/project-image05.jpg"
                 className="img-fluid"
-                alt="project image"
+                alt="projectimage"
               />
               <div className="project-info">
                 <small>Video</small>

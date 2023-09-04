@@ -9,7 +9,7 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    s trategy:
+    strategy:
       matrix:
         node-version: [15.x]
     

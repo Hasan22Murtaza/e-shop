@@ -10,7 +10,7 @@ function App() {
     <div className="container">
       <a className="navbar-brand" href="index.html">
         <i className="fa fa-line-chart" />
-        Digital Trend
+        Riemann System
       </a>
       <button
         className="navbar-toggler"

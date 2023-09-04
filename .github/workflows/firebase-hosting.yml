@@ -1,4 +1,5 @@
 name: Firebase CI
+
 on:
   push:
     branches: main
@@ -8,7 +9,7 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    strategy:
+    s trategy:
       matrix:
         node-version: [15.x]
     
